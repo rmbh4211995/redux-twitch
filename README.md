@@ -1,0 +1,1 @@
+Architecture for saving, editing, deleting, and displaying data using React, Redux, and the map-state-to-props lifecycle.

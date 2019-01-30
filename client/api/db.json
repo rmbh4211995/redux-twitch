@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "First Strea",
+      "description": "m very beginning!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This one has a complete description!",
+      "id": 2
+    },
+    {
+      "title": "3rd stream",
+      "description": "yay working!!",
+      "id": 3
+    },
+    {
+      "title": "Not my stream",
+      "description": "Shouldn't have my user id!",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "Not my stream",
+      "description": "Shouldn't have my user id!",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "Changed the title",
+      "description": "Refactored description!",
+      "id": 6
+    },
+    {
+      "title": "History test",
+      "description": "Did the navigation work?",
+      "userId": "107656287698007541975",
+      "id": 7
+    },
+    {
+      "title": "Let's see the log",
+      "description": "Check the console",
+      "userId": "107656287698007541975",
+      "id": 8
+    },
+    {
+      "title": "patch change",
+      "description": "is the id there?",
+      "userId": "107656287698007541975",
+      "id": 9
+    }
+  ]
+}

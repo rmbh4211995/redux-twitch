@@ -1,0 +1,13 @@
+.stream-delete-info-container {
+  margin-left: 10px;
+}
+
+.stream-delete-tag {
+  background-color: #FF8E8E;
+  border-radius: 3px;
+  padding: 2px 3px 2px 3px;
+  color: white;
+  margin-right: 10px;
+  width: 90px;
+  display: inline-block;
+}

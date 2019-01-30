@@ -1,0 +1,9 @@
+## redux dev tools
+url: https://github.com/zalmoxisus/redux-devtools-extension
+
+## launch in debug mode
+localhost:3000?debug_session=your_custom_string
+
+## exampe saved sessions
+localhost:3000?debug_session=logged_in
+localhost:3000?debug_session_logged_out
